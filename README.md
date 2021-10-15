@@ -1,5 +1,9 @@
 # I created a photo gallery with react using firebase storage together, being able to add and delete photos too
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83943087/137557368-3759d015-f959-4902-96da-c25d8f5ab615.png" width="700px" />
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
